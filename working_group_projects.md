@@ -15,6 +15,8 @@
 
 ## Other Ideas
 * Review Website Analytics 
+* Review api analytics 
 * Review and publish the data coming in through the feedback pane on the bottom right of gsa.gov/developer
+* Memorialize regular workflows, such as requesting DNS setup and SSL certs
 
 
