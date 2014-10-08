@@ -12,6 +12,8 @@
   * Ensure that gsa.gov/developer stays up to date
   * Normalize API documentation to github 
   * An intranet developer hub for internal only APIs.  ?insite.gsa.gov/developer? 
+* Process [open issues](https://github.com/GSA/GSA-APIs/issues)
+
 
 ## Other Ideas
 * Review Website Analytics 
