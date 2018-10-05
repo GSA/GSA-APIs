@@ -8,8 +8,8 @@ Do you have feedback, ideas, questions, or feature requests for GSA APIs?  Use [
 
 Would you like to request an API?
 =================================
-Requests for new GSA APIs can be posted in this issue: [https://github.com/GSA/GSA-APIs/issues/47]https://github.com/GSA/GSA-APIs/issues/47
+Requests for new GSA APIs can be posted in this issue: [Requests for GSA APIs](https://github.com/GSA/GSA-APIs/issues/47)
 
 Would you like to know when updates to GSA APIs occur?
 ======================================================
-To receive updates to GSA API programs, you can subscribe to this issue: [Updates to GSA APIs]https://github.com/GSA/GSA-APIs/issues/46
+To receive updates to GSA API programs, you can subscribe to this issue: [Updates to GSA APIs](https://github.com/GSA/GSA-APIs/issues/46)
