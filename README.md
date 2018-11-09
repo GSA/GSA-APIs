@@ -20,4 +20,4 @@ Requests for new GSA APIs can be posted in this issue: [Requests for GSA APIs](h
 
 ## Would you like to know when updates to GSA APIs occur?
 
-To receive updates to GSA API programs, you can subscribe to this issue: [Updates to GSA APIs](https://github.com/GSA/GSA-APIs/issues/46)
+To receive updates to GSA API programs, you can subscribe to this issue: [Notification Thread: Updates to GSA APIs [subscribe to this]](https://github.com/GSA/GSA-APIs/issues/46)
